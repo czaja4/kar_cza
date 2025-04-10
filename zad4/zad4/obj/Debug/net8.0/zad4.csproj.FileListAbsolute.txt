@@ -1,0 +1,14 @@
+C:\zadania_praktyki\zad4\zad4\bin\Debug\net8.0\zad4.exe
+C:\zadania_praktyki\zad4\zad4\bin\Debug\net8.0\zad4.deps.json
+C:\zadania_praktyki\zad4\zad4\bin\Debug\net8.0\zad4.runtimeconfig.json
+C:\zadania_praktyki\zad4\zad4\bin\Debug\net8.0\zad4.dll
+C:\zadania_praktyki\zad4\zad4\bin\Debug\net8.0\zad4.pdb
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.AssemblyInfoInputs.cache
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.AssemblyInfo.cs
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.csproj.CoreCompileInputs.cache
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.dll
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\refint\zad4.dll
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.pdb
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\zad4.genruntimeconfig.cache
+C:\zadania_praktyki\zad4\zad4\obj\Debug\net8.0\ref\zad4.dll
